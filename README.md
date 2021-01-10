@@ -1,5 +1,5 @@
 ## Face-Recognition-and-Matching
 
-**Methods & Models**: Keras FaceNet Model, Face Embedding, SVM Model
+**Models**: **MTCNN model** for face detection, pretrained **Keras FaceNet Model** for face embedding, **linear SVM Model** for prediction.
 
-**data**: https://drive.google.com/drive/u/0/folders/18353vW5EhKf18rFYOMcSOgPM7aZJ2FMv
+**dataset**: https://drive.google.com/drive/u/0/folders/18353vW5EhKf18rFYOMcSOgPM7aZJ2FMv (5 Celebrity Faces Dataset and some images uploaded for matching with the 5 celebrities)
